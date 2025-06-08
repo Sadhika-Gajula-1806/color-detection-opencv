@@ -58,6 +58,12 @@ Frustrated with inconsistent color matching in your projects? This Python applic
 
 ---
 
+##  License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and distribute it.
+
+---
 ## ⭐ Star and 🍴 Fork
 
 If you find this project interesting or useful, we'd love for you to show your support by giving it a ⭐ star on GitHub. It's a simple gesture but means a lot!
@@ -65,23 +71,5 @@ If you find this project interesting or useful, we'd love for you to show your s
 If you're feeling inspired or want to contribute, feel free to 🍴 fork this repository. Use it as a starting point for your projects or propose changes via pull requests. We welcome collaboration!
 
 Let's make this project even better together! 🚀
-
----
-
-##  File Structure
-
-```bash
-color-detection-opencv/
-├── color_detection.py     # Main script
-├── requirements.txt       # Required Python packages
-└── README.md              # Project documentation
-```
-
----
-
-##  License
-
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and distribute it.
 
 ---
